@@ -16,6 +16,8 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 6. Anonfiles.com
 
+7. Dropbox.com
+
 # Demo
 
 https://file-host.herokuapp.com
